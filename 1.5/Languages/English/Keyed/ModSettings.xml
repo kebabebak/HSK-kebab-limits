@@ -54,4 +54,7 @@
 
   <AllowPerItemAboveSlider>Allow per-item limits above the stack slider</AllowPerItemAboveSlider>
   <AllowPerItemAboveSliderTooltip>When enabled, in "No similar stack limit" and "Similar stack limit xN" modes a single item (or category) may be set higher than the storage slider default — e.g. 50 for most items and 100 for one type. In "Storage-wide limit" mode per-item values still cannot exceed the warehouse total; switching to that mode clears overrides above the cap.</AllowPerItemAboveSliderTooltip>
+
+  <AddFilterDisplaySettings>Add display settings</AddFilterDisplaySettings>
+  <AddFilterDisplaySettingsTooltip>Adds a Show all / Show only allowed / Show only forbidden switch in each storage. It only hides rows in the list so you can find items faster — it does not change what the storage actually accepts.</AddFilterDisplaySettingsTooltip>
 </LanguageData>

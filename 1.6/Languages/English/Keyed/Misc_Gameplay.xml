@@ -8,4 +8,10 @@
   <SimilarStackLimitDefaultTooltip>The stack limit slider sets the limit for the whole storage zone or building.</SimilarStackLimitDefaultTooltip>
   <SimilarStackLimitDisabledTooltip>The stack limit slider sets the limit per stockpile cell or per stack slot in a building. There is no cap on how many stacks you can have beyond available cells or free storage slots.</SimilarStackLimitDisabledTooltip>
   <SimilarStackLimitTooltip>The stack limit slider sets the limit per stockpile cell or per stack slot in a building. This storage may contain at most {COUNT} separate stacks of this item.</SimilarStackLimitTooltip>
+  <FilterListShowAll>Show all</FilterListShowAll>
+  <FilterListShowAllowedOnly>Show only allowed</FilterListShowAllowedOnly>
+  <FilterListShowForbiddenOnly>Show only forbidden</FilterListShowForbiddenOnly>
+  <FilterListShowAllTooltip>Show every item and category in this storage list.</FilterListShowAllTooltip>
+  <FilterListShowAllowedOnlyTooltip>Hide items and categories this storage is set to refuse.</FilterListShowAllowedOnlyTooltip>
+  <FilterListShowForbiddenOnlyTooltip>Hide items and categories this storage is set to accept.</FilterListShowForbiddenOnlyTooltip>
 </LanguageData>

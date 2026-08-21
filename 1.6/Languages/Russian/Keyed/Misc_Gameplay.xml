@@ -8,4 +8,10 @@
   <SimilarStackLimitDefaultTooltip>Ползунок «Ограничение стака» задаёт лимит на весь склад или хранилище.</SimilarStackLimitDefaultTooltip>
   <SimilarStackLimitDisabledTooltip>Ползунок «Ограничение стака» задаёт лимит на отдельную клетку склада или стак в хранилище. Нет предела на количество стаков, кроме доступных клеток склада или свободных ячеек хранилища.</SimilarStackLimitDisabledTooltip>
   <SimilarStackLimitTooltip>Ползунок «Ограничение стака» задаёт лимит на отдельную клетку склада или стак в хранилище. В хранилище или складе может быть не более {COUNT} отдельных стаков определенного предмета.</SimilarStackLimitTooltip>
+  <FilterListShowAll>Показывать все</FilterListShowAll>
+  <FilterListShowAllowedOnly>Показывать только разрешённое</FilterListShowAllowedOnly>
+  <FilterListShowForbiddenOnly>Показывать только запрещённое</FilterListShowForbiddenOnly>
+  <FilterListShowAllTooltip>Показать все предметы и категории в списке этого хранилища.</FilterListShowAllTooltip>
+  <FilterListShowAllowedOnlyTooltip>Скрыть предметы и категории, которые этому хранилищу запрещено принимать.</FilterListShowAllowedOnlyTooltip>
+  <FilterListShowForbiddenOnlyTooltip>Скрыть предметы и категории, которые этому хранилищу разрешено принимать.</FilterListShowForbiddenOnlyTooltip>
 </LanguageData>
