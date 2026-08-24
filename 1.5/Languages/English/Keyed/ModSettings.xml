@@ -7,8 +7,11 @@
   <ResetSetting>Reset</ResetSetting>
   <ResetSettingConfirm>Reset {SETTING} to its default value?</ResetSettingConfirm>
 
-  <EnableHardEjection>Enable forced item ejection</EnableHardEjection>
-  <EnableHardEjectionTooltip>When enabled, items exceeding the configured stack limits are automatically ejected from storage onto the floor.</EnableHardEjectionTooltip>
+  <EnableHardEjection>Allow forced item ejection</EnableHardEjection>
+  <EnableHardEjectionTooltip>When you lower a storage's upper limit below what is already stored there, extra items are dumped onto the floor. Turn this off if the new limit should only affect future hauling, without dumping items that are already in storage.</EnableHardEjectionTooltip>
+
+  <DelayHardEjectionAfterLimitChange>Delay forced ejection by (game hours)</DelayHardEjectionAfterLimitChange>
+  <DelayHardEjectionAfterLimitChangeTooltip>After the upper limit is lowered, wait this many game hours before extra items are dumped onto the floor. Turn this on if you sometimes move the slider by accident.</DelayHardEjectionAfterLimitChangeTooltip>
 
   <DisplayLogFactorInfo>The storage stack limit slider uses a non-linear scale for easier adjustment. Increase this value if your modded stacks can hold thousands of items.</DisplayLogFactorInfo>
   <DisplayLogFactor>Slider scale modifier</DisplayLogFactor>

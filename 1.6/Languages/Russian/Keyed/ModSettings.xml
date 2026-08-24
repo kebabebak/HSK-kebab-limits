@@ -8,7 +8,10 @@
   <ResetSettingConfirm>Сбросить настройку «{SETTING}» к значению по умолчанию?</ResetSettingConfirm>
 
   <EnableHardEjection>Разрешить принудительный сброс предметов</EnableHardEjection>
-  <EnableHardEjectionTooltip>При включении предметы, превышающие заданные ограничения стаков, будут автоматически сбрасываться из хранилища на пол.</EnableHardEjectionTooltip>
+  <EnableHardEjectionTooltip>Если верхний лимит склада опустить ниже того, что уже лежит в хранилище, лишние предметы выбрасываются на пол. Выключите, если новый лимит должен действовать только на будущую доставку, без выброса уже лежащих предметов.</EnableHardEjectionTooltip>
+
+  <DelayHardEjectionAfterLimitChange>Отложить принудительный сброс на (игровых часов)</DelayHardEjectionAfterLimitChange>
+  <DelayHardEjectionAfterLimitChangeTooltip>После снижения верхнего лимита подождать столько игровых часов, прежде чем лишние предметы будут выброшены на пол. Включите, если иногда задеваете ползунок случайно.</DelayHardEjectionAfterLimitChangeTooltip>
 
   <DisplayLogFactorInfo>Ползунок ограничения стаков использует нелинейную шкалу для удобной настройки. Увеличьте значение, если модифицированные стаки могут хранить тысячи предметов.</DisplayLogFactorInfo>
   <DisplayLogFactor>Модификатор шкалы ползунка</DisplayLogFactor>
