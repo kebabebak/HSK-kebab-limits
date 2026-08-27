@@ -60,4 +60,7 @@
 
   <AddFilterDisplaySettings>Добавить настройки отображения</AddFilterDisplaySettings>
   <AddFilterDisplaySettingsTooltip>Добавляет в каждое хранилище переключатель «Показывать все / только разрешённое / только запрещённое». Скрывает строки в списке, чтобы проще найти нужные предметы — сам фильтр склада от этого не меняется.</AddFilterDisplaySettingsTooltip>
+
+  <ExpandFilterCategories>Развернуть категории</ExpandFilterCategories>
+  <ExpandFilterCategoriesTooltip>Если включено, списки склада показывают предметы сплошным списком, без заголовков категорий. Порядок предметов не меняется. Не влияет на фильтр склада.</ExpandFilterCategoriesTooltip>
 </LanguageData>

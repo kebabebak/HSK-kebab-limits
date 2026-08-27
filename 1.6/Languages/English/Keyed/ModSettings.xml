@@ -60,4 +60,7 @@
 
   <AddFilterDisplaySettings>Add display settings</AddFilterDisplaySettings>
   <AddFilterDisplaySettingsTooltip>Adds a Show all / Show only allowed / Show only forbidden switch in each storage. It only hides rows in the list so you can find items faster — it does not change what the storage actually accepts.</AddFilterDisplaySettingsTooltip>
+
+  <ExpandFilterCategories>Expand categories</ExpandFilterCategories>
+  <ExpandFilterCategoriesTooltip>When enabled, storage lists show items in one continuous list instead of under category headers. Item order does not change. Does not affect the storage filter.</ExpandFilterCategoriesTooltip>
 </LanguageData>

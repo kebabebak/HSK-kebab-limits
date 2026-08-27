@@ -2,15 +2,15 @@
 <ModMetaData>
   <packageId>kebabebak.hsk.kebab.limits</packageId>
   <name>HSK kebab limits</name>
-  <modVersion>1.24</modVersion>
+  <modVersion>1.25</modVersion>
   <author>kebabebak</author>
   <supportedVersions>
     <li>1.5</li>
     <li>1.6</li>
   </supportedVersions>
-  <description>Full support for the latest version of HSK 1.6 Alpha.
+  <description>Full support for the latest version of HSK 1.6 Alpha. Disabling this mod will not cause any problems to your save.
   
-  Provides advanced item limits controls in storages:
+Provides advanced item limits controls in storages:
   - How many items a storage may hold
   - Different limits for one item or a category
   - Cap the whole storage or by amount of stacks
@@ -18,9 +18,9 @@
   - Display only allowed or forbidden items in the storage list
   and other...
   
-  Полная поддержка последней версии HSK 1.6 Alpha.
+Полная поддержка последней версии HSK 1.6 Alpha. Отключение этого мода не вызовет проблем с вашим сохранением.
   
-  Предоставляет расширенные возможности управления предметами в складах:
+Предоставляет расширенные возможности управления предметами в складах:
   - Сколько предметов может вместить склад
   - Различные лимиты для предмета или категории
   - Ограничение всего склада или по количеству стаков
@@ -28,7 +28,7 @@
   - Отображение только разрешенных или запрещенных предметов в списке хранилища
   и другие...
   
-  https://github.com/kebabebak/HSK-kebab-limits</description>
+https://github.com/kebabebak/HSK-kebab-limits</description>
   <modDependencies>
     <li>
       <packageId>brrainz.harmony</packageId>
