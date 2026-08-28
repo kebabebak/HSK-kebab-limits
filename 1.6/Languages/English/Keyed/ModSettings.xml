@@ -59,8 +59,10 @@
   <AllowPerItemAboveSliderTooltip>When enabled, in "No similar stack limit" and "Similar stack limit xN" modes a single item (or category) may be set higher than the storage slider default — e.g. 50 for most items and 100 for one type. In "Storage-wide limit" mode per-item values still cannot exceed the warehouse total; switching to that mode clears overrides above the cap.</AllowPerItemAboveSliderTooltip>
 
   <AddFilterDisplaySettings>Add display settings</AddFilterDisplaySettings>
-  <AddFilterDisplaySettingsTooltip>Adds a Show all / Show only allowed / Show only forbidden switch in each storage. It only hides rows in the list so you can find items faster — it does not change what the storage actually accepts.</AddFilterDisplaySettingsTooltip>
+  <AddFilterDisplaySettingsTooltip>Adds an allowed/forbidden switch in storage that hides rows in the list, to make finding items easier. Does not affect the storage filter.</AddFilterDisplaySettingsTooltip>
 
   <ExpandFilterCategories>Expand categories</ExpandFilterCategories>
-  <ExpandFilterCategoriesTooltip>When enabled, storage lists show items in one continuous list instead of under category headers. Item order does not change. Does not affect the storage filter.</ExpandFilterCategoriesTooltip>
+  <ExpandFilterCategoriesModeDisabledTooltip>Keep items grouped under category headers in storage lists.</ExpandFilterCategoriesModeDisabledTooltip>
+  <ExpandFilterCategoriesModePerStorageTooltip>Show items as a continuous list without category headers when enabled on a specific storage.</ExpandFilterCategoriesModePerStorageTooltip>
+  <ExpandFilterCategoriesModeGlobalTooltip>Show items as a continuous list without category headers in every storage.</ExpandFilterCategoriesModeGlobalTooltip>
 </LanguageData>

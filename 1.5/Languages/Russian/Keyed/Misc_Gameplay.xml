@@ -14,4 +14,5 @@
   <FilterListShowAllTooltip>Показать все предметы и категории в списке этого хранилища.</FilterListShowAllTooltip>
   <FilterListShowAllowedOnlyTooltip>Скрыть предметы и категории, которые этому хранилищу запрещено принимать.</FilterListShowAllowedOnlyTooltip>
   <FilterListShowForbiddenOnlyTooltip>Скрыть предметы и категории, которые этому хранилищу разрешено принимать.</FilterListShowForbiddenOnlyTooltip>
+  <ExpandFilterCategoriesStorageTooltip>Показывать предметы этого склада сплошным списком, без заголовков категорий. Порядок предметов не меняется. Не влияет на фильтр склада.</ExpandFilterCategoriesStorageTooltip>
 </LanguageData>
