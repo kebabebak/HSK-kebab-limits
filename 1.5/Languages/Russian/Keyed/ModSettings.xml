@@ -52,6 +52,9 @@
 
   <ModifiedHighlightColorLabel>Цвет выделения изменённых лимитов:</ModifiedHighlightColorLabel>
   <ModifiedHighlightColorTooltip>Выберите цвет, которым будут отмечены лимиты, изменённые относительно стандартных значений.</ModifiedHighlightColorTooltip>
+  <RaisedLimitHighlightColorLabel>Цвет выделения изменённых лимитов сверх общего предела:</RaisedLimitHighlightColorLabel>
+  <SeparateRaisedLimitHighlightColor>Отдельно настраивать цвет повышенного лимита</SeparateRaisedLimitHighlightColor>
+  <SeparateRaisedLimitHighlightColorTooltip>Если включено, предметы с лимитом выше ползунка склада отмечаются выбранным цветом. Если выключено, для них берётся цвет, противоположный цвету изменённых лимитов.</SeparateRaisedLimitHighlightColorTooltip>
 
   <MultistackInfo>Мультистак определяет, сколько отдельных стаков может находиться в одной клетке карты. Пользовательские хранилища могут поддерживать более одного стака на клетку. Не влияет на неограниченные хранилища. Одинаковые предметы могут по-прежнему ограничиваться правилами лимитов.</MultistackInfo>
 

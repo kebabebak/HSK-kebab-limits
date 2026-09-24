@@ -52,6 +52,9 @@
 
   <ModifiedHighlightColorLabel>Modified limit highlight color:</ModifiedHighlightColorLabel>
   <ModifiedHighlightColorTooltip>Select the color used to mark storage limits changed from default values.</ModifiedHighlightColorTooltip>
+  <RaisedLimitHighlightColorLabel>Highlight color for limits above the general cap:</RaisedLimitHighlightColorLabel>
+  <SeparateRaisedLimitHighlightColor>Set a separate color for a raised limit</SeparateRaisedLimitHighlightColor>
+  <SeparateRaisedLimitHighlightColorTooltip>When on, items set higher than the storage slider use a color you choose. When off, those items use the opposite of the modified-limit color.</SeparateRaisedLimitHighlightColorTooltip>
 
   <MultistackInfo>Multistack determines how many separate item stacks may occupy one map cell. Custom storage buildings may allow more than one stack per cell. Does not affect unrestricted storage. Similar items may still be restricted by limit rules.</MultistackInfo>
 
