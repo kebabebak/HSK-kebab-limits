@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <KebabLimitsSettingsCategory>HSK kebab limits</KebabLimitsSettingsCategory>
+  <KebabLimits.MissingDependenciesTooltip>*This part is disabled because of missing dependencies. Details are in the log.</KebabLimits.MissingDependenciesTooltip>
 
   <ResetSettings>Reset settings</ResetSettings>
   <ResetSettingsConfirm>Reset all HSK kebab limits settings to their default values?</ResetSettingsConfirm>
